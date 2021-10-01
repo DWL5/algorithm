@@ -5,3 +5,6 @@
 - [2차원 배열 회전](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/array/ArrayRotation.java)
 - [2차원 배열 테두리 회전](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/array/ArrayBoardRotation.java)
 
+## Two Pointer
+- [배열 두개 합치기](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/two_pointer/MixTwoArray.java)
+
