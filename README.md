@@ -9,3 +9,6 @@
 - [배열 두개 합치기](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/two_pointer/MixTwoArray.java)
 - [공통 원소 찾기](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/two_pointer/CommonElement.java)
 
+## Sliding Window
+- [최대 매출](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/slidingwindow/MaxSales.java)
+
