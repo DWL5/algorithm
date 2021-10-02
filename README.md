@@ -8,6 +8,7 @@
 ## Two Pointer O(n2) -> O(n)
 - [배열 두개 합치기](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/two_pointer/MixTwoArray.java)
 - [공통 원소 찾기](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/two_pointer/CommonElement.java)
+- [연속부분수열](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/two_pointer/ContinuousSequence.java)
 
 ## Sliding Window O(n2) -> O(n)
 - [최대 매출](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/slidingwindow/MaxSales.java)
