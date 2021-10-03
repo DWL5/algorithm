@@ -13,7 +13,6 @@ public class AllAnagram {
         int answer = 0;
         HashMap<Character, Integer> am = new HashMap<>();
         HashMap<Character, Integer> bm = new HashMap<>();
-
         for (char x : b.toCharArray()) {
             bm.put(x, bm.getOrDefault(x, 0) + 1);
         }
