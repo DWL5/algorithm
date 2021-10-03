@@ -13,3 +13,12 @@
 ## Sliding Window O(n2) -> O(n)
 - [최대 매출](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/slidingwindow/MaxSales.java)
 
+## Hash
+- [모든 애너그램](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/hash/AllAnagram.java)
+- [전화번호 목록](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/hash/PhoneNumber.java)
+- [전화번호 목록 문제] (https://programmers.co.kr/learn/courses/30/lessons/42577)
+
+## 문자열
+- [숫자 문자열과 영단어](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/str/NumberStr.java)
+- [숫자 문자열과 영단어 문제](https://programmers.co.kr/learn/courses/30/lessons/81301)
+
