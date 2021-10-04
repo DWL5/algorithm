@@ -1,6 +1,9 @@
 package str;
 import java.util.*;
 
+/*
+* https://programmers.co.kr/learn/courses/30/lessons/81301
+*/
 public class NumberStr {
     String[] arr = new String[]{"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
     HashMap<String, Integer> map = new HashMap();
