@@ -6,6 +6,7 @@ import java.util.*;
  * 재귀, 해쉬
  * 더 이상 재귀를 수행해도 되지 않을 때, return 시켜주는 조건 찾기..
  * 이 문제에서는 moeny가 0이되면 더이상 재귀를 수행하지 않아도 됨.
+ * https://programmers.co.kr/learn/courses/30/lessons/77486
  */
 
 public class MultiLevelBrush {
