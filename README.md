@@ -26,3 +26,6 @@
 
 ## 우선순위 큐
 - [최대 수입 스케줄](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/priority_queue/MaxIncomeSchedule.java)
+
+## 다익스트라
+- https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/graph/dijkstra/Dijkstra.java
