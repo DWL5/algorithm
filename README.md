@@ -28,4 +28,5 @@
 - [최대 수입 스케줄](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/priority_queue/MaxIncomeSchedule.java)
 
 ## 다익스트라
-- https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/graph/dijkstra/Dijkstra.java
+- [다익스트라 알고리즘](https://github.com/DWL5/datastructure-algorithm/blob/main/src/main/java/graph/dijkstra/Dijkstra.java)
+- [프로그래머스 - 배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
