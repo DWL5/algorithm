@@ -1,4 +1,4 @@
-package dfs;
+package dfs_bfs;
 
 public class Network {
     boolean[] visit;
