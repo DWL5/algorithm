@@ -1,4 +1,4 @@
-# datastructure-algorithm
+# algorithm
 알고리즘과 자료구조를 공부하며 정리하는 레포지토리 입니다.
 
 ## 배열
